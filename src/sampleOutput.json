@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Amanda Nunes Octagon Interview | UFC 277 - UFC - Ultimate Fighting Championship",
+      "description": "Once again, UFC’s Amanda Nunes reigns supreme as a double champion in the Octagon, securing the unanimous decision win over former champ Julianna Peña in the...",
+      "url": "https://www.youtube.com/watch?v=M4fP6KlA9Og",
+      "urlToImage": "https://i.ytimg.com/vi/M4fP6KlA9Og/maxresdefault.jpg",
+      "publishedAt": "2022-07-31T05:25:40Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "MLB trade rumors: Padres open to discussing C.J. Abrams for Soto deal; Frankie Montas top target of Yankees - CBS Sports",
+      "description": "Here are Saturday's top trade deadline talkers",
+      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-padres-in-talks-with-cubs-for-willson-contreras-frankie-montas-now-no-1-target-for-yankees/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/30/f313bd6a-758b-4fe5-b3dd-de8ce91768ca/thumbnail/1200x675/64fa87e035dc00a4a5c67c0a20161b5b/gettyimages-12421328441.jpg",
+      "publishedAt": "2022-07-31T05:15:00Z",
+      "content": "Major League Baseball's trade deadline is four days away and late Friday night the biggest pitching chip fell as the Reds sent righty Luis Castillo to the Mariners for four prospects. The trade likel… [+5854 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Biden again tests positive for COVID, says he feels fine - Reuters.com",
+      "description": "U.S. President Joe Biden tested positive for COVID-19 again on Saturday in what the White House doctor described as a \"rebound\" case seen in a small percentage of patients who take the antiviral drug Paxlovid.",
+      "url": "https://www.reuters.com/world/us/biden-again-tests-positive-covid-19-feels-quite-well-white-house-2022-07-30/",
+      "urlToImage": "https://www.reuters.com/resizer/1XQH0G9rS83p0p_CaXXRubAYmo8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KXMJMBTOVZJQ7MXDJLUNWNHSAU.jpg",
+      "publishedAt": "2022-07-31T04:44:00Z",
+      "content": "WASHINGTON, July 30 (Reuters) - U.S. President Joe Biden tested positive for COVID-19 again on Saturday in what the White House doctor described as a \"rebound\" case seen in a small percentage of pati… [+2893 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Nolan King",
+      "title": "UFC 277 results: Brandon Moreno shuts down Kai Kara-France with kick, squashes beef with Deiveson Figueiredo - MMA Junkie",
+      "description": "Deiveson Figueiredo stepped into the cage to talk with Brandon Moreno post-fight.",
+      "url": "https://mmajunkie.usatoday.com/2022/07/ufc-277-results-brandon-moreno-kai-kara-france-kick-deiveson-figueiredo",
+      "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2022/07/brandon-moreno-kai-kara-france-ufc-277-9.jpg?w=1024&h=576&crop=1",
+      "publishedAt": "2022-07-31T04:00:00Z",
+      "content": "Brandon Moreno is next in line. He left no doubt of that Saturday at UFC 277.\r\nIn the co-main event at American Airlines Center in Dallas, Moreno (20-6-2 MMA, 8-3-2 UFC) finished Kai Kara-France (24-… [+3375 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "China's factory activity contracts unexpectedly in July as COVID flares up - Reuters",
+      "description": "China's factory activity contracted unexpectedly in July after bouncing back from COVID-19 lockdowns the month before, as fresh virus flare-ups and a darkening global outlook weighed on demand, a survey showed on Sunday.",
+      "url": "https://www.reuters.com/markets/asia/chinas-factory-activity-contracts-unexpectedly-july-official-pmi-2022-07-31/",
+      "urlToImage": "https://www.reuters.com/resizer/AVxxFbU4icYK-Xy1xEwWZOhvbVk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IHC2RPUJONNP7MCQGWQDFMMD6I.jpg",
+      "publishedAt": "2022-07-31T03:46:00Z",
+      "content": "BEIJING, July 31 (Reuters) - China's factory activity contracted unexpectedly in July after bouncing back from COVID-19 lockdowns the month before, as fresh virus flare-ups and a darkening global out… [+3275 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Valerie Complex",
+      "title": "Comedian Chris Rock Jokes About Being Slapped By Will Smith At Recent Show In Atlanta - Deadline",
+      "description": "Chris Rock had his first comedy show since getting a public apology from Will Smith for being on the receiving end of a slap from him at the 2022 Oscars. During the show at the Fox theater in Atlanta he told a few jokes about the experience according to Peopl…",
+      "url": "https://deadline.com/2022/07/comedian-chris-rock-jokes-about-being-slapped-1235081806/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2021/01/AAAABXrzCgavc_dgIiniBXnHQdvHDV2d3kaQ_YRxhoWxeVN1N1HzhhRlQuoNswBneCimlET-Ouswfa4tdou8IU8sagbE-9jf.jpg?w=1024",
+      "publishedAt": "2022-07-31T03:30:00Z",
+      "content": "Chris Rock had his first comedy show since getting a public apology from Will Smith for being on the receiving end of a slap from him at the 2022 Oscars. During the show at the Fox theater in Atlanta… [+1843 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Rosemary Rossi",
+      "title": "Sylvester Stallone Slams ‘Rocky’ Drago Spinoff as ‘Greed’ - Yahoo Entertainment",
+      "description": "“I’d like to congratulate Irwin Winkler and family beating another wonderful character into the ground!\" Stallone wrote, referring to the film's producer",
+      "url": "https://www.yahoo.com/entertainment/sylvester-stallone-slams-rocky-spin-025307913.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/yTiDdc0NJLZBCEi.6tC_AQ--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thewrap.com/620354561d618761e05915e7dbead4fe",
+      "publishedAt": "2022-07-31T03:09:52Z",
+      "content": "Sylvester Stallone came out swinging over the news TheWrap broke Friday that a Rocky spinoff based on the Drago character is in the works at MGM and that he is not a part of it.\r\nHeartbreaker Just fo… [+1390 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "ESPN staff",
+      "title": "NFL training camp 2022 live - Matthew Stafford builds chemistry with new receiver, DK Metcalf returns - ESPN",
+      "description": "Big-name playmakers didn't disappoint and rookie wideouts managed to make their mark across the league. Check out the top videos and notes from the NFL on Saturday.",
+      "url": "https://www.espn.com/nfl/story/_/id/34318012/nfl-training-camp-updates-2022-tyreek-hill-thrills-dolphins-fans-65-yard-td-rookie-receivers-impress-saints-jets",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0731%2Fr1042433_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-07-31T01:34:28Z",
+      "content": "It was the Tyreek Hill Show in Miami on Saturday.\r\nThe Miami Dolphins receiver opened practice by addressing fans, welcoming them to 2022 NFL training camp before landing a flip on the field to get t… [+17177 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Kstp.com" },
+      "author": null,
+      "title": "St. Croix Co. Sheriff: Teen dead, 4 adults in critical condition following stabbing on Apple River - KSTP",
+      "description": "Authorities say multiple people are recovering from injuries following a stabbing on the Apple River late Saturday afternoon.",
+      "url": "https://kstp.com/kstp-news/top-news/1-dead-4-in-critical-condition-following-stabbing-on-apple-river-in-somerset/",
+      "urlToImage": "https://kstp.com/wp-content/uploads/2022/07/Somerset-Scene-1.jpg",
+      "publishedAt": "2022-07-31T01:19:49Z",
+      "content": "Authorities say one person has died and four people are in critical condition after a stabbing in Somerset, Wis. late Saturday afternoon.\r\nAccording to St. Croix County Sheriff Scott Knudson, deputie… [+2221 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "Nasa criticises China after space rocket makes uncontrolled return to Earth - The Guardian",
+      "description": "Beijing accused of being irresponsible after it failed to share data on where Long March 5B booster weighing more than 20 tonnes would land",
+      "url": "https://amp.theguardian.com/world/2022/jul/31/nasa-criticises-china-after-space-rocket-makes-uncontrolled-return-to-earth",
+      "urlToImage": null,
+      "publishedAt": "2022-07-31T00:45:00Z",
+      "content": "ChinaBeijing accused of being irresponsible after it failed to share data on where Long March 5B booster weighing more than 20 tonnes would land\r\nSat 30 Jul 2022 20.45 EDT\r\nA Chinese booster rocket m… [+3382 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Irie Sentner",
+      "title": "Spain confirms country's second monkeypox death in as many days - New York Post ",
+      "description": "The death came one week after the World Health Organization declared the outbreak a global health emergency.",
+      "url": "https://nypost.com/2022/07/30/spain-confirms-second-monkeypox-death-third-outside-of-africa/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/spain-death-monkeypox-04.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-07-31T00:39:00Z",
+      "content": "Two people in Spain have died from monkeypox.\r\nThe Spanish Health Ministry on Saturday reported the country’s second death from the outbreak in as many days, marking the first fatalities in Europe an… [+1963 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Billboard" },
+      "author": "Glenn Rowley",
+      "title": "Taylor Swift’s Rep Responds to Criticism Over Star’s Carbon Emissions - Hollywood Reporter",
+      "description": "The rapper had a logistical explanation for the whole thing.",
+      "url": "https://www.billboard.com/music/music-news/drake-private-jet-14-minute-flight-explanation-1235118249/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2021/09/06-drake-press-2021-billboard-1548-1630682742.jpg?w=1024",
+      "publishedAt": "2022-07-31T00:25:25Z",
+      "content": "Drake took some heat in recent days regarding his use of a private jet, but he cleared up the controversy via social media on Tuesday (July 26).\r\nThe drama all started last week when Twitter account … [+1877 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Aya Elamroussi, Andy Rose and Ray Sanchez, CNN",
+      "title": "Death toll rises to at least 25 in Kentucky flooding as people in stricken areas remain hard to reach, governor says - CNN",
+      "description": "The death toll in flood-stricken parts of eastern Kentucky climbed to at least 25 and will almost certainly \"get worse\" as first responders work to account for missing residents, the state's governor said Saturday.",
+      "url": "https://www.cnn.com/2022/07/30/weather/kentucky-appalachia-flooding-saturday/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220730012154-02-kentucky-flooding-saturday-restricted-super-tease.jpg",
+      "publishedAt": "2022-07-31T00:25:00Z",
+      "content": "(CNN)The death toll in flood-stricken parts of eastern Kentucky climbed to at least 25 and will almost certainly \"get worse\" as first responders work to account for missing residents, the state's gov… [+6684 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Nadeem Badshah, Joe Middleton",
+      "title": "Russia-Ukraine war latest: what we know on day 158 of the invasion - The Guardian",
+      "description": "Russian embassy call for Ukrainian executions condemned; strikes hit Kharkiv school; Gazprom halts gas to Latvia; Moscow bars NZ officials",
+      "url": "https://amp.theguardian.com/world/2022/jul/31/russia-ukraine-war-latest-what-we-know-on-day-15-of-the-invasion",
+      "urlToImage": null,
+      "publishedAt": "2022-07-31T00:23:00Z",
+      "content": "<li>Ukrainian officials have denounced a call by Russias embassy in Britain for fighters from the Azov regiment to face a humiliating execution, Agence France-Presse has reported. Twitter said the em… [+3825 chars]"
+    },
+    {
+      "source": { "id": null, "name": "OregonLive" },
+      "author": "The Associated Press",
+      "title": "California wildfire 10 miles south of Oregon border deemed ‘very dangerous’ by officials - OregonLive",
+      "description": "“It’s a very dangerous fire — the geography there is steep and rugged, and this particular area hasn’t burned in a while,” he said. Over 100 homes were ordered evacuated in Siskiyou County and authorities were warning people to be on high alert. Smoke from th…",
+      "url": "https://www.oregonlive.com/wildfires/2022/07/california-wildfire-10-miles-south-of-oregon-border-deemed-very-dangerous-by-officials.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/7vF7WIJXabeOiGjK58Py1EMm5FA=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UGAA3YA3W5GHFKF2QEHZWCY6NA.jpg",
+      "publishedAt": "2022-07-31T00:21:00Z",
+      "content": "Wildfires in California near the Oregon border and in Montana exploded in size overnight amid windy, hot conditions and were quickly encroaching on neighborhoods, forcing evacuation orders for over 1… [+6014 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5google.com" },
+      "author": "Abner Li",
+      "title": "More Pixel 6a owners find that any fingerprint can unlock the phone - 9to5Google",
+      "description": "With the Pixel 6a now available, some buyers have noticed that any fingerprint is able to unlock their new phones in a worrying security...",
+      "url": "https://9to5google.com/2022/07/30/pixel-6a-fingerprint-unlock/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/pixel-6a-google-fingerprint-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-07-30T23:40:00Z",
+      "content": "With the Pixel 6a now available in stores, some buyers have noticed that any fingerprint is able to unlock their new phones in a rather worrying security lapse by Google.\r\nLast weekend, tworeports ou… [+2239 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Detroit News" },
+      "author": "Jakkar Aimery, The Detroit News",
+      "title": "Multiple injured, two dead in Ionia Co. bicycle tour accident, police say - Detroit News",
+      "description": "Five bicyclists were injured and at least two have died after being struck by a passing vehicle during a bicycle tour, the Ionia County Sheriff's Office said.",
+      "url": "https://www.detroitnews.com/story/news/local/michigan/2022/07/30/multiple-injured-two-dead-during-bicycle-tour-ionia-county/10194126002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/30/PDTN/44162835-84d7-4613-b6d4-f48b0011da3a-296066542_10225083913878552_5873498379439437927_n.jpg?auto=webp&crop=1089,613,x122,y203&format=pjpg&width=1200",
+      "publishedAt": "2022-07-30T23:32:22Z",
+      "content": "Five bicyclists were injured and at least two have died after being struck by a passing vehicle during a bicycle tour, the Ionia County Sheriff's Office said Saturday evening.  \r\nAt 11:15 a.m., the I… [+1700 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Ticket bought in Illinois wins $1.3 billion Mega Millions jackpot - CBS News",
+      "description": "There was one winning ticket in the draw Friday night, and it was bought in Illinois, according to megamillions.com.",
+      "url": "https://www.cbsnews.com/news/ticket-bought-in-illinois-wins-1-28b-mega-millions-jackpot/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/29/cb41e204-9c0f-4ee4-a901-dd28eb982bbd/thumbnail/1200x630/a386554acb6858420dada6f80c6ebf8c/mega-ticket.jpg",
+      "publishedAt": "2022-07-30T23:23:00Z",
+      "content": "A lucky winner beat the odds and won the $1.3 billion Mega Millions jackpot.\r\nAccording to megamillions.com, there was one winning ticket in the drawing Friday night, and it was bought in Illinois at… [+1206 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Tired Pope Francis says he needs to pull back on travel or possibly retire - CBS News",
+      "description": "\"I think at my age and with these limitations, I have to save (my energy) to be able to serve the church, or on the contrary, think about the possibility of stepping aside.\"",
+      "url": "https://www.cbsnews.com/news/pope-francis-says-he-needs-to-retire-or-pull-back-on-travel-canada-trip/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/30/22c1b680-e567-44f2-9ce9-4dfaf96e369a/thumbnail/1200x630/698b1eb02a0dbf0367e3eed9a8b518aa/gettyimages-1242189662.jpg",
+      "publishedAt": "2022-07-30T23:22:00Z",
+      "content": "Pope Francis acknowledged Saturday that he can no longer travel like he used to because of his strained knee ligaments, saying his weeklong Canadian pilgrimage was \"a bit of a test\" that showed he ne… [+2855 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Emma Roth",
+      "title": "Netflix sues creators behind The Unofficial Bridgerton Musical following sold-out show - The Verge",
+      "description": "Netflix is suing Abigail Barlow and Emily Bear, the Grammy-award-winning pair behind The Unofficial Bridgerton Musical over copyright infringement. The company filed the complaint just days after Barlow and Bear held a live concert dedicated to their Bridgert…",
+      "url": "https://www.theverge.com/2022/7/30/23285371/netflix-sues-creators-unofficial-bridgerton-musical-emily-bear-abigail-barlow",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qp_vr_NaTZRW0swhJNX6G8iR7YE=/0x260:3600x2145/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22245162/BRIDGERTON_102_Unit_02026R.jpg",
+      "publishedAt": "2022-07-30T22:59:39Z",
+      "content": "The live performance was Netflixs tipping point\r\nImage: Liam Daniel / Netflix\r\nNetflix is suing Abigail Barlow and Emily Bear, the duo behind The Unofficial Bridgerton Musical over copyright infringe… [+3798 chars]"
+    }
+  ]
+}
