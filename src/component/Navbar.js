@@ -42,37 +42,37 @@ export class Navbar extends Component {
                   <ul className="dropdown-menu">
                     <li>
                       <Link className="dropdown-item" to="/general">
-                        general
+                        General
                       </Link>
                     </li>
                     <li>
                       <Link className="dropdown-item" to="/entertainment">
-                        entertainment
+                        Entertainment
                       </Link>
                     </li>
                     <li>
                       <Link className="dropdown-item" to="/business">
-                        business
+                        Business
                       </Link>
                     </li>
                     <li>
                       <Link className="dropdown-item" to="/health">
-                        health
+                        Health
                       </Link>
                     </li>
                     <li>
                       <Link className="dropdown-item" to="/science">
-                        science
+                        Science
                       </Link>
                     </li>
                     <li>
                       <Link className="dropdown-item" to="/sports">
-                        sports
+                        Sports
                       </Link>
                     </li>
                     <li>
                       <Link className="dropdown-item" to="/technology">
-                        technology
+                        Technology
                       </Link>
                     </li>
                   </ul>
