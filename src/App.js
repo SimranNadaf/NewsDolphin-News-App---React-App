@@ -3,10 +3,12 @@ import Navbar from "./component/Navbar";
 import News from "./component/News";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
+import ErrorBoundaries from "./component/ErrorBoundaries";
+
 
 export default class App extends Component {
   pageSize = 6;
-  APIKey = process.env.REACT_APP_API_KEY
+  APIKey = process.env.REACT_APP_API_KEY;
   state = {
     progress: 0,
   };
@@ -15,9 +17,9 @@ export default class App extends Component {
     this.setState({ progress: progress });
   };
   render() {
-  
     return (
       <div>
+        <ErrorBoundaries>
         <Router>
           <Navbar />
           <LoadingBar color="#f11946" progress={this.state.progress} />
@@ -137,6 +139,7 @@ export default class App extends Component {
             />
           </Routes>
         </Router>
+        </ErrorBoundaries>
       </div>
     );
   }

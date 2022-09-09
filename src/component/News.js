@@ -75,6 +75,7 @@ export class News extends Component {
   render() {
     return (
       <>
+      
         <h1 className="text-center my-3">
           NewsDolphin - Top {this.props.title} Headlines{" "}
         </h1>
