@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import NewItem from "./NewItem";
 import Spinner from "./Spinner";
 import PropTypes from "prop-types";
+import InfiniteScroll from "react-infinite-scroll-component";
 
 export class News extends Component {
   static defaultProps = {
@@ -23,90 +24,92 @@ export class News extends Component {
       articles: [],
       loading: false,
       page: 1,
-      totalResults:0
+      totalResults: 0,
     };
     // document.title=`${this.capitalizeFirstLetter(this.props.category)} - NewsDolfin`;
-    document.title = `${this.props.title} - NewsDolphin`;
+    document.title = `${this.props.title} - NewsDolphin `;
   }
   // capitalizeFirstLetter(string) {
   //   return string.charAt(0).toUpperCase() + string.slice(1);
   // }
 
   async Update() {
-  
-    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=53dddd918db94929b4e12404f3da1716&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+    this.props.setProgress(0);
+    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.APIKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
+    this.props.setProgress(30);
     let parsedData = await data.json();
+    this.props.setProgress(70);
     this.setState({
       loading: false,
       articles: parsedData.articles,
       totalResults: parsedData.totalResults,
     });
+    this.props.setProgress(100);
   }
 
   async componentDidMount() {
     this.Update();
   }
-  handlePrevoius =async () => {
-    await this.setState({ page: this.state.page - 1 });
-    this.Update();
+  Fetch = async () => {
+    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.APIKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+    let data = await fetch(url);
+    let parsedData = await data.json();
+    this.setState({
+      articles: this.state.articles.concat(parsedData.articles),
+      totalResults: parsedData.totalResults,
+    });
   };
-
-  handleNext = async () => {
-    await this.setState({ page: this.state.page + 1 });
-    this.Update();
+  fetchMoreData = async () => {
+    this.setState({ page: this.state.page + 1 }, () => {
+      if (
+        Math.ceil(this.state.totalResults / this.props.pageSize) >=
+        this.state.page
+      ) {
+        this.Fetch();
+      }
+    });
   };
 
   render() {
     return (
-      <div className="container">
+      <>
         <h1 className="text-center my-3">
-          NewsDolphine - Top {this.props.title} Headlines{" "}
+          NewsDolphin - Top {this.props.title} Headlines{" "}
         </h1>
         {this.state.loading && <Spinner />}
-        {!this.state.loading && (
-          <div className="row my-3">
-            {this.state.articles.map((element) => {
-              return (
-                <div className="col-md-4 my-4" key={element.url}>
-                  <NewItem
-                    title={element.title}
-                    description={element.description}
-                    img={element.urlToImage}
-                    newsUrl={element.url}
-                    author={element.author}
-                    date={element.publishedAt}
-                    source={element.source.name}
-                  />
-                </div>
-              );
-            })}
+        <InfiniteScroll
+          key={this.state.page}
+          dataLength={this.state.articles.length}
+          next={this.fetchMoreData}
+          hasMore={
+            Math.ceil(this.state.totalResults / this.props.pageSize) >=
+            this.state.page
+          }
+          loader={<Spinner />}
+        >
+          <div className="container">
+            <div className="row my-3">
+              {this.state.articles.map((element, index) => {
+                return (
+                  <div className="col-md-4 my-4" key={index}>
+                    <NewItem
+                      title={element.title}
+                      description={element.description}
+                      img={element.urlToImage}
+                      newsUrl={element.url}
+                      author={element.author}
+                      date={element.publishedAt}
+                      source={element.source.name}
+                    />
+                  </div>
+                );
+              })}
+            </div>
           </div>
-        )}
-
-        <div className="container d-flex justify-content-between mb-5">
-          <button
-            disabled={this.state.page <= 1}
-            type="button"
-            className="btn btn-dark"
-            onClick={this.handlePrevoius}
-          >
-            &larr; Previous
-          </button>
-          <button
-            disabled={
-              this.state.page ===
-              Math.ceil(this.state.totalResults / this.props.pageSize)
-            }
-            type="button"
-            className="btn btn-dark"
-            onClick={this.handleNext}
-          >
-            Next &rarr;
-          </button>
-        </div>
-      </div>
+        </InfiniteScroll>
+      </>
     );
   }
 }

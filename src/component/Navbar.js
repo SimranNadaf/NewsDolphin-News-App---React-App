@@ -8,7 +8,7 @@ export class Navbar extends Component {
         <nav className="navbar navbar-dark navbar-expand-lg bg-dark">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
-              NewsDolfin
+              NewsDolphin
             </Link>
             <button
               className="navbar-toggler"
@@ -28,7 +28,7 @@ export class Navbar extends Component {
                     Home
                   </Link>
                 </li>
-                
+
                 <li className="nav-item dropdown">
                   <Link
                     className="nav-link dropdown-toggle"

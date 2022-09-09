@@ -6,10 +6,11 @@ export class NewItem extends Component {
     return (
       <div className='container'>
         <div className="card">
-        <span className="position-absolute top-0 start-10 translate-middle badge rounded-pill bg-danger" style={{left:"90%",zIndex:1}}>
+          <div style={{display:"flex", justifyContent:"flex-end", position:"absolute", right:"0"}}>
+        <span className="badge rounded-pill bg-danger">
           {source}
-       
         </span>
+        </div>
           <img src={!img?"https://st.depositphotos.com/1006899/3776/i/950/depositphotos_37765339-stock-photo-news.jpg":img} className="card-img-top" alt="..."/>
           <div className="card-body">
             <h5 className="card-title">{title}</h5>
