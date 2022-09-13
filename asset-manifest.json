@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimranNadaf/NewsDolphin-News-App---React-App/static/css/main.e6c13ad2.css",
+    "main.js": "/SimranNadaf/NewsDolphin-News-App---React-App/static/js/main.c95a11aa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SimranNadaf/NewsDolphin-News-App---React-App/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SimranNadaf/NewsDolphin-News-App---React-App/index.html",
+    "main.e6c13ad2.css.map": "/SimranNadaf/NewsDolphin-News-App---React-App/static/css/main.e6c13ad2.css.map",
+    "main.c95a11aa.js.map": "/SimranNadaf/NewsDolphin-News-App---React-App/static/js/main.c95a11aa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SimranNadaf/NewsDolphin-News-App---React-App/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c95a11aa.js"
+  ]
+}
